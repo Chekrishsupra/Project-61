@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+}
+.profile {
+  border-radius: 50%;
+  width: 100px;
+}
+h1 {
+  text-shadow: 2px #F8BBD0
+}
+#hobby {
+  font-size: 18px;
+  color: lightblue;
+}
+.Menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+    top: 0px;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+#welcome {
+    background: linear-gradient(#D50000, #DD2C00);
+}
+
+#p {
+    background: linear-gradient(#200122,#6f0000);
+}
+#hobby {
+    background: linear-gradient(#00E5FF, #D50000);
+    color: black;
+}
+#About2 {
+    color: firebrick;
+}
+#swimmer {
+    font-size: 20px;
+    color: royalblue;
+}
+#Suit {
+    background: linear-gradient(#2193b0, #6dd5ed, #FF0099, #493240)
+}
+#About {
+    background: linear-gradient(#00c3ff, #ffff1c)
+}
+#How {
+    background: linear-gradient(#1E9600, #FFF200, #FF0000, #c31432, #240b36, #f12711, #f5af19)
+}
+#Strokes {
+    background: linear-gradient(#800080, #ffc0cb)
+}
+img {
+    transition: transform .2s;
+}
+img:hover {
+    transform: scale(0.9);
+}
+#favourite {
+    background: linear-gradient(#833ab4, #fd1d1d, #fcb045)
+}
+#contact {
+    background: linear-gradient(#a73737, #7a2828)
+}
